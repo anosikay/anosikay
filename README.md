@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anosikay
-- 👀 I’m interested in ... cyber security
-- 🌱 I’m currently learning ... python programming
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... WhatsApp - +2349022665965
+- 👋 Hi, I’m @anosikay  
+- 🎨 I’m passionate about UI/UX & Product Design  
+- 🌱 I’m currently improving my skills in Figma, prototyping, and user research  
+- 💼 I’m looking to collaborate on design projects and case studies  
+- 📫 How to reach me: WhatsApp – +2349022665965 | Email – anosikekenechukwu2023@gmail.com  
+
 
 <!---
 anosikay/anosikay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
